@@ -1,0 +1,62 @@
+2026-02-02 21:25:00.422 [info] [Window] Started local extension host with pid 10336.
+2026-02-02 21:25:00.709 [info] [Window] Started initializing default profile extensions in extensions installation folder. file:///c%3A/Users/Sharon/.vscode/extensions
+2026-02-02 21:25:01.494 [info] [Window] Completed initializing default profile extensions in extensions installation folder. file:///c%3A/Users/Sharon/.vscode/extensions
+2026-02-02 21:25:02.455 [info] [Window] MCP Registry configured: https://api.mcp.github.com
+2026-02-02 21:25:03.202 [info] [Cloud Changes] Prompting to enable cloud changes, has application previously launched from Continue On flow: false
+2026-02-02 21:25:03.639 [info] [Window] Settings Sync: Account status changed from uninitialized to unavailable
+2026-02-02 21:25:04.812 [info] [Window] [perf] Render performance baseline is 137ms
+2026-02-02 21:28:15.681 [warning] [Window] SettingsEditor2: Settings not included in settingsLayout.ts: extensions.requestTimeout, github.copilot.chat.agent.terminal.allowList, github.copilot.chat.agent.terminal.denyList, terminal.integrated.developer.devMode, terminal.integrated.developer.ptyHost.latency, terminal.integrated.developer.ptyHost.startupDelay, chat.statusWidget.sku
+2026-02-02 21:28:33.283 [info] [Window] Started local extension host with pid 1176.
+2026-02-02 21:28:35.174 [info] [Window] MCP Registry configured: https://api.mcp.github.com
+2026-02-02 21:28:35.610 [info] [Window] Settings Sync: Account status changed from uninitialized to unavailable
+2026-02-02 21:28:36.263 [info] [Cloud Changes] Prompting to enable cloud changes, has application previously launched from Continue On flow: false
+2026-02-02 21:28:41.674 [info] [Window] [perf] Render performance baseline is 164ms
+2026-02-02 22:40:29.148 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2026-02-02 22:46:29.814 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2026-02-02 22:56:54.983 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2026-02-02 22:58:21.177 [warning] [Window] [perf] Renderer reported VERY LONG TASK (4445ms), starting profiling session '2104fb9b-9f26-44c0-b921-43847745a62a'
+2026-02-02 23:21:35.942 [error] [Window] Error: Unable to read file 'c:\Users\Sharon\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\python.exe' (NoPermissions (FileSystemError): An unknown error occurred. Please consult the log for more details.)
+    at QEt.G (vscode-file://vscode-app/c:/Users/Sharon/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:3871:66539)
+    at Object.error (vscode-file://vscode-app/c:/Users/Sharon/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:3871:66685)
+    at Object.onError (vscode-file://vscode-app/c:/Users/Sharon/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:91703)
+    at vscode-file://vscode-app/c:/Users/Sharon/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:90875
+    at vscode-file://vscode-app/c:/Users/Sharon/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:89311
+    at Array.forEach (<anonymous>)
+    at Oqi.h (vscode-file://vscode-app/c:/Users/Sharon/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:89300)
+    at Oqi.error (vscode-file://vscode-app/c:/Users/Sharon/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:89061)
+    at Nce.value (vscode-file://vscode-app/c:/Users/Sharon/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:3871:76999)
+    at D.C (vscode-file://vscode-app/c:/Users/Sharon/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2349)
+2026-02-02 23:21:36.071 [error] [Window] [File Watcher (node.js)] Error: EACCES: permission denied, stat 'c:\Users\Sharon\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\python.exe'
+2026-02-02 23:21:37.275 [error] [Window] Error: Unable to read file 'c:\Users\Sharon\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\python.exe' (NoPermissions (FileSystemError): An unknown error occurred. Please consult the log for more details.)
+    at QEt.G (vscode-file://vscode-app/c:/Users/Sharon/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:3871:66539)
+    at Object.error (vscode-file://vscode-app/c:/Users/Sharon/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:3871:66685)
+    at Object.onError (vscode-file://vscode-app/c:/Users/Sharon/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:91703)
+    at vscode-file://vscode-app/c:/Users/Sharon/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:90875
+    at vscode-file://vscode-app/c:/Users/Sharon/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:89311
+    at Array.forEach (<anonymous>)
+    at Oqi.h (vscode-file://vscode-app/c:/Users/Sharon/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:89300)
+    at Oqi.error (vscode-file://vscode-app/c:/Users/Sharon/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:89061)
+    at Nce.value (vscode-file://vscode-app/c:/Users/Sharon/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:3871:76999)
+    at D.C (vscode-file://vscode-app/c:/Users/Sharon/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2349)
+2026-02-02 23:22:06.623 [error] [Window] Error: Unable to read file 'c:\Users\Sharon\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\python.exe' (NoPermissions (FileSystemError): An unknown error occurred. Please consult the log for more details.)
+    at QEt.G (vscode-file://vscode-app/c:/Users/Sharon/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:3871:66539)
+    at Object.error (vscode-file://vscode-app/c:/Users/Sharon/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:3871:66685)
+    at Object.onError (vscode-file://vscode-app/c:/Users/Sharon/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:91703)
+    at vscode-file://vscode-app/c:/Users/Sharon/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:90875
+    at vscode-file://vscode-app/c:/Users/Sharon/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:89311
+    at Array.forEach (<anonymous>)
+    at Oqi.h (vscode-file://vscode-app/c:/Users/Sharon/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:89300)
+    at Oqi.error (vscode-file://vscode-app/c:/Users/Sharon/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:89061)
+    at Nce.value (vscode-file://vscode-app/c:/Users/Sharon/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:3871:76999)
+    at D.C (vscode-file://vscode-app/c:/Users/Sharon/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2349)
+2026-02-02 23:22:11.173 [error] [Window] Error: Unable to read file 'c:\Users\Sharon\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\python.exe' (NoPermissions (FileSystemError): An unknown error occurred. Please consult the log for more details.)
+    at QEt.G (vscode-file://vscode-app/c:/Users/Sharon/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:3871:66539)
+    at Object.error (vscode-file://vscode-app/c:/Users/Sharon/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:3871:66685)
+    at Object.onError (vscode-file://vscode-app/c:/Users/Sharon/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:91703)
+    at vscode-file://vscode-app/c:/Users/Sharon/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:90875
+    at vscode-file://vscode-app/c:/Users/Sharon/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:89311
+    at Array.forEach (<anonymous>)
+    at Oqi.h (vscode-file://vscode-app/c:/Users/Sharon/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:89300)
+    at Oqi.error (vscode-file://vscode-app/c:/Users/Sharon/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:89061)
+    at Nce.value (vscode-file://vscode-app/c:/Users/Sharon/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:3871:76999)
+    at D.C (vscode-file://vscode-app/c:/Users/Sharon/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2349)
